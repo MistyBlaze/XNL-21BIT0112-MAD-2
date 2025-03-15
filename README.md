@@ -42,7 +42,7 @@ This project is designed to demonstrate the integration of Flutter and Firebase 
 
 Here are screenshots showcasing various screens of the application:
 
-<img src="images/demo/Screenshot_20210122-101432.jpg" alt="Customer Overview" width="250"> <img src="images/demo/Screenshot_20210122-101443.jpg" alt="Transaction Screen" width="250"> <img src="images/demo/Screenshot_20210122-101449.jpg" alt="Transaction History" width="250"> <img src="images/demo/Screenshot_20210122-101513.jpg" alt="User Profile" width="250">
+ <img src="images/demo/Screenshot_20210122-101443.jpg" alt="Transaction Screen" width="250"> <img src="images/demo/Screenshot_20210122-101449.jpg" alt="Transaction History" width="250"> <img src="images/demo/Screenshot_20210122-101513.jpg" alt="User Profile" width="250">
 
 
 
