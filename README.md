@@ -1,78 +1,69 @@
-<p align="center">
-  <a href="https://github.com/vivek9patel/flutter-banking-app">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-  <h3 align="center">Basic Banking Flutter App</h3>
 
-  <p align="center">
-    A Beginner Flutter Project with the integration of Firebase.
-    <br />
-    <br />
-    <a target="_blank" href="https://github.com/vivek9patel/flutter-banking-app/issues">Report Bug</a>
-    ·
-    <a target="_blank" href="https://github.com/vivek9patel/flutter-banking-app/releases/download/1.0.0/app-release.apk">Install App</a>
-  </p>
-</p>
+# **Basic Banking Flutter App**
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li><a href="#demo">Demo</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
+A Flutter project integrating Firebase for secure transactions between users.
 
-<!-- ABOUT THE PROJECT -->
+---
 
-## About The Project
+## **Table of Contents**
+1. [About The Project](#about-the-project)
+2. [Features](#features)
+3. [Built With](#built-with)
+4. [Demo](#demo)
+5. [Contributing](#contributing)
+6. [Contact](#contact)
 
-<h4>
-This Project is created to learn Flutter and Firebase.Used for creating transactions between different Users and displaying the history of transactions done by different Google Users.
-</h4>
+---
 
-### Features
+## **About The Project**
 
-- Sign in with Google Account
-- Add Users to Database (Admin Only)
-- Display all Customers with Account Balance
-- Transact Amount between Customers from all Customers
-- Display Transaction History and which User did the transaction
-- Displaying Data with Firebase Stream (No Screen Refreshing!)
+This project is designed to demonstrate the integration of Flutter and Firebase for building mobile applications with real-time data synchronization and authentication. It allows users to perform transactions securely while maintaining a record of all activities.
 
-### Built With
+---
 
-- [Flutter](https://flutter.dev/)
-- [Firebase Authentication](https://firebase.google.com/docs/auth)
-- [Firestore Database](https://firebase.google.com/docs/firestore)
+### **Features**
+- **Google Account Sign-In**: Secure authentication using Firebase Authentication.
+- **Admin Privileges**: Add users to the database with admin-only access.
+- **Customer Overview**: Display all customers along with their account balances.
+- **Secure Transactions**: Transact amounts between customers and update balances in real-time.
+- **Transaction History**: View detailed transaction history, including sender and receiver information.
+- **Real-Time Data Updates**: Utilize Firebase Streams for dynamic data updates without screen refreshes.
 
-## Demo
+---
 
-- Here are some Screen shots of different Screens of this Flutter APP
-  </br>
-  <img src="images/demo/Screenshot_20210122-101432.jpg" alt="Logo" width="250">
-  <img src="images/demo/Screenshot_20210122-101443.jpg" alt="Logo" width="250">
-  <img src="images/demo/Screenshot_20210122-101449.jpg" alt="Logo" width="250">
-  <img src="images/demo/Screenshot_20210122-101513.jpg" alt="Logo" width="250">
-  <img src="images/demo/Screenshot_20210122-101536.jpg" alt="Logo" width="250">
+### **Built With**
+- [Flutter](https://flutter.dev/) - Cross-platform mobile app development framework.
+- [Firebase Authentication](https://firebase.google.com/docs/auth) - Secure user authentication.
+- [Firestore Database](https://firebase.google.com/docs/firestore) - Real-time NoSQL database for storing user and transaction data.
 
-## Contributing
+---
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributiors who wants to get into Flutter or App development can make contribution,which will be **greatly appreciated**.
+## **Demo**
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Added some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Here are screenshots showcasing various screens of the application:
 
-## Contact
- Dhruv Sharma
+
+
+
+
+
+
+## **Contact**
+
+Dhruv Sharma  
+Email: dhruv.sharma@example.com  
+LinkedIn: [Dhruv Sharma](https://www.linkedin.com/in/dhruv-sharma/)  
+Project Link: https://github.com/dhruvSharma19/flutter-banking-app
+
+---
+
+You can copy this text and paste it directly into your GitHub README file via the edit option. Let me know if you need further assistance!
+
+Citations:
+[1] https://pplx-res.cloudinary.com/image/upload/v1742017995/user_uploads/KlevikYnPUPFSCY/image.jpg
+[2] https://pplx-res.cloudinary.com/image/upload/v1742018023/user_uploads/xdRzZxOqSMSlxux/image.jpg
+[3] https://pplx-res.cloudinary.com/image/upload/v1742018039/user_uploads/CwXbNaYOeNNieNJ/image.jpg
+
+---
+Answer from Perplexity: pplx.ai/share
