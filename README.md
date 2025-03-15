@@ -1,5 +1,4 @@
-
-
+T
 # **Basic Banking Flutter App**
 
 A Flutter project integrating Firebase for secure transactions between users.
@@ -43,6 +42,9 @@ This project is designed to demonstrate the integration of Flutter and Firebase 
 
 Here are screenshots showcasing various screens of the application:
 
+<img src="images/demo/Screenshot_20210122-101432.jpg" alt="Customer Overview" width="250"> <img src="images/demo/Screenshot_20210122-101443.jpg" alt="Transaction Screen" width="250"> <img src="images/demo/Screenshot_20210122-101449.jpg" alt="Transaction History" width="250"> <img src="images/demo/Screenshot_20210122-101513.jpg" alt="User Profile" width="250">
+
+
 
 
 
@@ -52,18 +54,9 @@ Here are screenshots showcasing various screens of the application:
 ## **Contact**
 
 Dhruv Sharma  
-Email: dhruv.sharma@example.com  
-LinkedIn: [Dhruv Sharma](https://www.linkedin.com/in/dhruv-sharma/)  
+Email: dhruv2003sharma@gmail.com 
+LinkedIn: [Dhruv Sharma](https://www.linkedin.com/in/dhruv-sharma-05818622b/)  
 Project Link: https://github.com/dhruvSharma19/flutter-banking-app
 
 ---
 
-You can copy this text and paste it directly into your GitHub README file via the edit option. Let me know if you need further assistance!
-
-Citations:
-[1] https://pplx-res.cloudinary.com/image/upload/v1742017995/user_uploads/KlevikYnPUPFSCY/image.jpg
-[2] https://pplx-res.cloudinary.com/image/upload/v1742018023/user_uploads/xdRzZxOqSMSlxux/image.jpg
-[3] https://pplx-res.cloudinary.com/image/upload/v1742018039/user_uploads/CwXbNaYOeNNieNJ/image.jpg
-
----
-Answer from Perplexity: pplx.ai/share
