@@ -75,7 +75,4 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 ## Contact
-
-Vivek Patel - [@vivek9patel-linkedlin](https://www.linkedin.com/in/vivek9patel/) | vivek.p9737@gmail.com
-
-Project Link: [https://github.com/vivek9patel/flutter-banking-app](https://github.com/vivek9patel/flutter-banking-app)
+ Dhruv Sharma
