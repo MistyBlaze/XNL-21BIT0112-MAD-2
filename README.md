@@ -57,6 +57,9 @@ Dhruv Sharma
 Email: dhruv2003sharma@gmail.com 
 LinkedIn: [Dhruv Sharma](https://www.linkedin.com/in/dhruv-sharma-05818622b/)  
 Project Link: https://github.com/dhruvSharma19/flutter-banking-app
+firebase link : https://console.firebase.google.com/project/bankingapp-128a7/settings/general/android:com.dhruvSharma19.basic_banking
+Permission required to see firestore , auth etc  , cloud messaging  , to push notifications for realtime conversation was half implemented and non functional . 
+Google login auth done . 
 
 ---
 
